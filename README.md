@@ -1,6 +1,6 @@
 # Prerequisites
-#####
-- JDK 21 
+##### Learning tags
+- JDK 21
 - Maven 3.9 
 - MySQL 8
 
@@ -12,6 +12,7 @@
 - Maven
 - JSP
 - Tomcat
+- Nginx
 - MySQL
 - Memcached
 - Rabbitmq
